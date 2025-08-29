@@ -19,9 +19,9 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 ## 🛠️ Components Used
 | Component | Purpose | Image |
 |-----------|---------|-------|
-| **STM32F103C8T6** | Main microcontroller | ![STM32F103C8T6](Components/stm32.jpg) |
+| **STM32F103C8T6** | Main microcontroller | ![STM32F103C8T6](Components/STM32.jpg) |
 | **ST-LINK V2** | Programmer/debugger for STM32 | ![ST-LINK](Components/ST_Linkv2.jpg) |
-| **DHT11** | Temperature & Humidity sensor | ![DHT11](Components/TEMP_DHT11.jpg) |
+| **DHT11** | Temperature & Humidity sensor | ![DHT11](Components/Temp_DHT11.jpg) |
 | **Soil Moisture Sensor (YL-69)** | Soil wetness measurement | ![YL-69](Components/soil_Y69.jpg) |
 | **IR Sensor** | Motion detection | ![IR Sensor](Components/IR_sensor.jpg) |
 | **0.96” OLED** | Display readings | ![OLED](Components/OLED_Display.jpg) |
@@ -59,7 +59,7 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 
 ---
 ### PROJECT OVER VIEW
-| **PROJECT** | VIEW | ![PROJECT](Components/project1.jpg) |
+| **PROJECT** | VIEW | ![PROJECT](Components/Project1.jpg) |
 | **PROJECT** | VIEW | ![PROJECT](Components/project2.jpg) |
 
 
