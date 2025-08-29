@@ -59,8 +59,8 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 
 ---
 ### PROJECT OVER VIEW
-| **PROJECT** | VIEW | ![PROJECT](Components/Project1.jpg) |
-| **PROJECT** | VIEW | ![PROJECT](Components/project2.jpg) |
+| **PROJECT** | ![PROJECT](Components/Project1.jpg) |
+ **PROJECT** | ![PROJECT](Components/project2.jpg) 
 
 
 ## ▶️ How to Run  
