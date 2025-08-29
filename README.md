@@ -39,7 +39,7 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 - Download **[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)**  
 - Install the IDE for your OS (Windows)  
 - INSTALL KEIL 
-- For install watch this videos **[WATCH_THIS_VIDEO](https://www.youtube.com/watch?v=P0Tig56y6PA)**
+- For install watch this videos **[WATCH THIS VIDEO](https://www.youtube.com/watch?v=P0Tig56y6PA)**
 
 
 ### 2. PIN DIAGRAM
@@ -91,12 +91,19 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 
 ---
 
+### PROJECT PROPOSAL AND LAB REPORT
+|**PROPOSAL** | VIEW | ![PROPOSAL](RESOURCE/CSE331L_project_proposal_updated.pdf)|
+|**LAB REPORT** | VIEW | ![REPORT(COMMING SOON)](RESOURCE/)|
+
 ## 👥 Team Members
 - **Arpo Roy** (2212656042)  
 - **Anindita Das Mishi** (2211364642)  
 - **Syed Tashriful Alam** (2212623042)  
 - **Avik Sarker Dipu** (2111532042)  
 - **Riazul Zannat** (2211199042)  
+
+ 
+
 
 ---
 
