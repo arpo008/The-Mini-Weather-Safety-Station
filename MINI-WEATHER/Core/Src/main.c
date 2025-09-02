@@ -26,7 +26,7 @@
 #include "stdio.h"
 #include "string.h"
 #include "core_cm3.h"
-/* USER CODE END Includes */ 
+/* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
@@ -49,7 +49,7 @@ I2C_HandleTypeDef hi2c1;
 
 /* USER CODE BEGIN PV */
 // Thresholds (tweak later)
-static int TEMP_HIGH_C = 35;
+static int TEMP_HIGH_C = 33;
 static int HUM_LOW_PCT = 20;
 static int HUM_HIGH_PCT = 85;
 static int SOIL_DRY_PCT = 20; // only used when USE_SOIL_SENSOR == 1
