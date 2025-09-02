@@ -93,7 +93,7 @@ An embedded system project using **STM32F103C8T6** to monitor environmental cond
 
 ### PROJECT PROPOSAL AND LAB REPORT
 - **[PROPOSAL](RESOURCE/CSE331L_project_proposal_updated.pdf)**
-- **[PROJECT REPORT(COMMING SOON)](RESOURCE/)**
+- **[PROJECT REPORT](RESOURCE/CSE331LProjectReport.pdf)**
 
 ## 👥 Team Members
 - **Arpo Roy** (2212656042)  
